@@ -1,0 +1,3 @@
+assemblyai>=0.17.0
+assemblyai[extras]>=0.17.0
+python-dotenv>=1.0.0
